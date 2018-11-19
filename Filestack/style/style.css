@@ -1,0 +1,10 @@
+body {
+    background-image: url(http://www.pptbackgrounds.org/uploads/for-business-backgrounds-wallpapers.jpg); 
+    background-size: cover;
+}
+.liElem {
+    box-sizing: border-box;
+   /* border: 2px solid red;*/
+    padding: 25px;
+    margin: 25px;
+}
